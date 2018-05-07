@@ -1,9 +1,3 @@
-.. image:: https://badge.fury.io/py/astar.svg
-    :target: https://badge.fury.io/py/astar
-    
-.. image:: https://travis-ci.org/jrialland/python-astar.svg?branch=master
-    :target: https://travis-ci.org/jrialland/python-astar
-
 python-astar
 ============
 
